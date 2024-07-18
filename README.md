@@ -1,2 +1,2 @@
 # yauis.github.io
-Protfolio Website
+Portfolio Website
